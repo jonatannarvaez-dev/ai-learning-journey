@@ -34,8 +34,7 @@ first-agent/
 ├── first-agent/
 │   ├── Program.cs              # Entry point and chat loop
 │   └── first-agent.csproj      # Project file and dependencies
-├── first-agent.slnx            # Solution file
-└── CLAUDE.md                   # Architecture documentation
+└── first-agent.slnx            # Solution file
 ```
 
 ## Getting started
